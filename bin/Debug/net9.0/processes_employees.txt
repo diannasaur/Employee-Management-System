@@ -1,0 +1,18 @@
+PROCESSED EMPLOYEE REPORT
+=================================
+
+HIGH SALARY EXPERIENCED EMPLOYEES:
+John Doe (IT): $60,500 - 8 years experience
+Alice Brown (Finance): $60,500 - 7 years experience
+Michael Chen (Engineering): $82,500 - 10 years experience
+Sarah Wilson (Marketing): $52,800 - 6 years experience
+
+IT DEPARTMENT EMPLOYEES:
+John Doe - $60,500 - 8 years
+Bob Johnson - $45,000 - 3 years
+David Lee - $48,000 - 4 years
+
+SALARY SUMMARY:
+Total Employees: 7
+Total Salary: $409,800
+Average Salary: $80,186
