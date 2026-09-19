@@ -43,7 +43,7 @@ Alice Chen,68000,IT,9
 ## Output
 
 - **Console:** a formatted, phase-by-phase report (file loading status, filtered employee lists, bonus updates, and a final salary analysis showing highest and average salary).
-- **File:** a summary report written to `processes_employees.txt` *(note: this is the actual filename in the current code — the console log says "processed_employees.txt," but the file that gets created is `processes_employees.txt`)*. It includes:
+- **File:** a summary report written to `processes_employees.txt` It includes:
   - High-salary **and** experienced employees
   - IT department employees
   - Total employees processed, total salary, and average salary
@@ -52,7 +52,3 @@ Alice Chen,68000,IT,9
 
 - If `employees.txt` is missing, the program catches `FileNotFoundException` and prints a friendly message instead of crashing.
 - Other exceptions are caught and their message is printed to the console.
-
-
-
-<!-- Add a license, e.g. MIT, or remove this section if not applicable -->
