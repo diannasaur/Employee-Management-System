@@ -27,9 +27,9 @@ Name,Salary,Department,YearsOfExperience
 Example:
 
 ```
-Jane Doe,55000,IT,7
-John Smith,42000,Sales,3
-Alice Chen,68000,IT,9
+John Doe,55000,IT,8
+Jane Smith,60000,HR,5
+Bob Johnson,45000,IT,3
 ```
 
 ## Processing Logic
